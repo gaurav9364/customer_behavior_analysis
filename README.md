@@ -107,7 +107,7 @@ GitHub
 
 🚀 How to Use This Project
 1️⃣ Clone the Repository
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+git clone [[https://github.com/gaurav9364/customer_behavior_analysis.git](https://github.com/gaurav9364/customer_behavior_analysis.git)](https://github.com/gaurav9364/customer_behavior_analysis.git)
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 
 2️⃣ Open the Jupyter Notebook
